@@ -64,7 +64,7 @@ I am a systematic software infrastructure and cloud-native security specialist t
 ---
 
 ### 🤝 Connect with Me
-- 💼 **LinkedIn:** [ayronfactotech](www.linkedin.com/in/ayronfactotech)
+- 💼 **LinkedIn:** [ayronfactotech](https://www.linkedin.com/in/ayronfactotech)
 - 📧 **Email:** ayronfactotech@gmail.com
 - 🏢 **Target Platforms:** [NodeFlair Profile](https://nodeflair.com) | [Tech in Asia Profile](https://techinasia.com/profile/ayron-james-facto)
 
